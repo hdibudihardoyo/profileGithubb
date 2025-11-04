@@ -122,10 +122,13 @@ const introduction = {
 
 ---
 
+[![An image of @hdibudihardoyo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hdibudihardoyo)](https://holopin.io/@hdibudihardoyo)
+
 <div align="center">
   
 ### 💖 Show some love by starring repositories!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
 
 </div>
